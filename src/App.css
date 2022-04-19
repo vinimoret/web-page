@@ -1,5 +1,5 @@
 @media (pointer:none), (pointer:coarse) {
   .ant-form-item-label > label {
-    height: 60px !important;
+    height: 55px !important;
   }
 }
